@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_maxQ"
+			],
+			[
+				"get_max",
+				"get_maxQ"
+			],
+			[
+				"row",
+				"rowTheBoat"
+			],
+			[
+				"print",
+				"printAL"
+			],
+			[
+				"v",
+				"void"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/patrick/Web/Blog/_config.yml",
+		"/Users/patrick/Web/blog/_config.yml",
+		"/Users/patrick/Desktop/prototypes.py",
+		"/Users/patrick/Desktop/client_config.json",
+		"/Users/patrick/Desktop/smartcab-master/smartcab/agent.py",
+		"/Users/patrick/AndroidStudioProjects/CardManager/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/patrick/AndroidStudioProjects/CardManager/gradle.properties",
+		"/Users/patrick/Desktop/PlayerTestDrive",
+		"/Users/patrick/Downloads/insta_args.txt",
+		"/Volumes/boot/config.txt",
+		"/Users/patrick/Desktop/test.json",
+		"/Users/patrick/Desktop/RandomString.java",
+		"/Users/patrick/Downloads/RandomString.java",
+		"/Users/patrick/Desktop/data.xml",
+		"/Users/patrick/Desktop/AnimalTestDrive.java",
+		"/Users/patrick/Desktop/TestBoats.java",
+		"/Users/patrick/Desktop/TestBoats.jva",
+		"/Users/patrick/Downloads/get_data.json",
+		"/Users/patrick/Downloads/get_data.xml",
+		"/Users/patrick/Desktop/train.java",
+		"/Users/patrick/Desktop/MyClass/to_be_deleted.txt",
+		"/Users/patrick/Desktop/MyClass/test.py.tmp2",
+		"/Users/patrick/Desktop/MyClass/test.py.tmp",
+		"/Users/patrick/Desktop/MyClass/readme.txt.tmp",
+		"/Users/patrick/Desktop/MyClass/test.py",
+		"/Users/patrick/Desktop/MyClass/readme.txt",
+		"/Users/patrick/Desktop/JavaTest.java",
+		"/Users/patrick/Library/Application Support/Sublime Text 3/Packages/User/JavaRun.sublime-build",
+		"/Users/patrick/Desktop/DogTestDrive.java",
+		"/Users/patrick/Desktop/TestArrays.java",
+		"/Users/patrick/Desktop/ElectricGuitar.java",
+		"/Users/patrick/Desktop/DrumKitTestDrive.java",
+		"/Users/patrick/Desktop/GameLauncher.java",
+		"/Users/patrick/Desktop/Player.java",
+		"/Users/patrick/Desktop/GuessGame.java",
+		"/Users/patrick/Desktop/Udacity/GameLauncher.java",
+		"/Users/patrick/Desktop/Shuffle1.java",
+		"/Users/patrick/AndroidStudioProjects/HelloWorld/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/patrick/AndroidStudioProjects/MyApplication/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/patrick/Downloads/FoodPin/en.xliff",
+		"/Users/patrick/.ShadowsocksX/gfwlist.js",
+		"/Users/patrick/.ShadowsocksX/user-rule.txt",
+		"/Users/patrick/Desktop/z-algorithm",
+		"/Users/patrick/Desktop/bible_verse.xml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaRun.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
